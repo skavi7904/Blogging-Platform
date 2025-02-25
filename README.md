@@ -1,10 +1,3 @@
-**Name:** Kaviyarasan S<br>
-**Company:** CODTECH IT SOLUTIONS<br>
-**ID:** CT08DS6415<br>
-**Domain:** Web Development<br>
-**Duration:** August to September 2024<br>
-**Mentor:** Muzammil Ahmed<br>
-
 ## Overview of the Project
 
 ### Create a Blogging Platform
